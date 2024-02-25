@@ -1,0 +1,127 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = IplPlayersClubDetailsApp
+build_property.RootNamespace = IplPlayersClubDetailsApp
+build_property.ProjectDir = C:\Users\Mohamed Wasim\Downloads\IplPlayersClubDetailsApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Mohamed Wasim\Downloads\IplPlayersClubDetailsApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Mohamed Wasim/Downloads/IplPlayersClubDetailsApp/Views/ClubsMvc/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YnNNdmNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Wasim/Downloads/IplPlayersClubDetailsApp/Views/ClubsMvc/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YnNNdmNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Wasim/Downloads/IplPlayersClubDetailsApp/Views/ClubsMvc/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YnNNdmNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Wasim/Downloads/IplPlayersClubDetailsApp/Views/ClubsMvc/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YnNNdmNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Wasim/Downloads/IplPlayersClubDetailsApp/Views/ClubsMvc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YnNNdmNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Wasim/Downloads/IplPlayersClubDetailsApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Wasim/Downloads/IplPlayersClubDetailsApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Wasim/Downloads/IplPlayersClubDetailsApp/Views/LazyLoading/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF6eUxvYWRpbmdcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Wasim/Downloads/IplPlayersClubDetailsApp/Views/PlayersMvcWebApi/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc012Y1dlYkFwaVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Wasim/Downloads/IplPlayersClubDetailsApp/Views/PlayersMvcWebApi/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc012Y1dlYkFwaVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Wasim/Downloads/IplPlayersClubDetailsApp/Views/PlayersMvcWebApi/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc012Y1dlYkFwaVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Wasim/Downloads/IplPlayersClubDetailsApp/Views/PlayersMvcWebApi/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc012Y1dlYkFwaVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Wasim/Downloads/IplPlayersClubDetailsApp/Views/PlayersMvcWebApi/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc012Y1dlYkFwaVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Wasim/Downloads/IplPlayersClubDetailsApp/Views/PlayersMvc/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc012Y1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Wasim/Downloads/IplPlayersClubDetailsApp/Views/PlayersMvc/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc012Y1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Wasim/Downloads/IplPlayersClubDetailsApp/Views/PlayersMvc/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc012Y1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Wasim/Downloads/IplPlayersClubDetailsApp/Views/PlayersMvc/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc012Y1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Wasim/Downloads/IplPlayersClubDetailsApp/Views/PlayersMvc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc012Y1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Wasim/Downloads/IplPlayersClubDetailsApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Wasim/Downloads/IplPlayersClubDetailsApp/Views/Shared/ErrorPlayerMvc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yUGxheWVyTXZjLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Wasim/Downloads/IplPlayersClubDetailsApp/Views/Shared/NotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5vdEZvdW5kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Wasim/Downloads/IplPlayersClubDetailsApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Wasim/Downloads/IplPlayersClubDetailsApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Wasim/Downloads/IplPlayersClubDetailsApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Wasim/Downloads/IplPlayersClubDetailsApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fv5vow9653

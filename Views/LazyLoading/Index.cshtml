@@ -1,0 +1,13 @@
+﻿@model IEnumerable<IplPlayersClubDetailsApp.Models.PlayerDetails>
+
+
+
+@foreach (var club in Model)
+{
+
+    <p><b>Player Id:</b>@club.Player.PlayerId</p>
+    <p><b>Player First Name:</b> @club.Player.FirstName</p>
+    <p><b>Player Last Name:</b> @club.Player.LastName</p>
+    <p><b>Club Name:</b> @club.Club.Name</p>
+    <p>********************************</p>
+}
