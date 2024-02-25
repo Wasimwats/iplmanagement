@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IplPlayersClubDetailsApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0bcb7599412e6b9ad9920cac792e3a0e46ae763")]
 [assembly: System.Reflection.AssemblyProductAttribute("IplPlayersClubDetailsApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IplPlayersClubDetailsApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
